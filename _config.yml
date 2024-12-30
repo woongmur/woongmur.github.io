@@ -22,7 +22,7 @@ title_separator          : "-"
 futuer                   : true
 published                : true
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Woongmur"
+name                     : "woongmur"
 description              : "My Project Blog"
 url                      : "https://woongmur.github.io"
 baseurl                  : #"/blog"
