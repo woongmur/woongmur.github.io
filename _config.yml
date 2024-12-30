@@ -23,7 +23,7 @@ futuer                   : true
 published                : true
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Woongmur"
-description              : "My Project Blog."
+description              : "My Project Blog"
 url                      : "https://woongmur.github.io"
 baseurl                  : #"/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
